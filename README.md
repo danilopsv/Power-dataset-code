@@ -13,7 +13,7 @@ Download hysdel, link: http://people.ee.ethz.ch/~cohysys/hysdel/download.html
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% INPUTS: Natal_T_GHI_WS_dataset.mat and Santa_Vitoria_T_GHI_WS_dataset.mat
+% INPUTS: raw_data_Natal.mat and raw_data_Santa_Vitoria.mat
 
 % OUTPUTS: Statistical results of weather and power data and the
 
